@@ -8,7 +8,7 @@ public class EnviarMensagem extends ChromeConnector {
 	
 	public static void main(String[] args) {
 	  MessageSender msn = new MessageSender();
-			  msn.startConversation("556492926284", "teste");	
+			  msn.startConversation("put the number here", "put the message here");	
 	}
 	
 	

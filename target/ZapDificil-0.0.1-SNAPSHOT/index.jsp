@@ -6,12 +6,12 @@
 <meta charset="ISO-8859-1">
 <link rel="Stylesheet" href="css/reset.css">
 <link rel="Stylesheet" href="css/style-index.css">
-<title>Zap Real</title>
+<title>Zap Hard</title>
 </head>
 <body>
 	
 	<div class="title">
-		<h1>zap real</h1>
+		<h1>zap hard</h1>
 	</div>
 
 </body>

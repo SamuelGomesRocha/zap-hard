@@ -10,8 +10,7 @@ public class MessageSender extends ChromeConnector {
 
 	public void startConversation(String number, String message) {
 //		Actions act = new Actions(browser);
-		//alaor number: +55 64 9292-6284
-		//Inicia a conex„o com o chromedriver.exe
+		//Inicia a conex√£o com o chromedriver.exe
 		initConnection();
 		browser.get("https://web.whatsapp.com/send?phone="+number);
 	//	WebElement btnIniciarConversa =  browser.findElement(By.className("_36or _2y_c _2z0c _2z07"));
